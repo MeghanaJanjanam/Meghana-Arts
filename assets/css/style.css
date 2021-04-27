@@ -399,7 +399,7 @@ h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://github.com/MeghanaJanjanam/Meghana-Arts/blob/master/background.jpeg") top center;
+  background: url("../../background.jpeg") top center;
   background-size: cover;
   position: relative;
 }
